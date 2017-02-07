@@ -1,0 +1,17 @@
+This book is one of them, a
+compendium of those programmers notes and scribbles, deciphered (try reading programmer handwriting),
+edited and brought together coherently as a book.
+This updated second edition of the book has expanded, as Linux has expanded, and now covers writing
+threaded programs (otherwise known as "how to shoot yourself in both feet at once") and the GTK toolkit
+which is the basis of the GNOME GUI and probably the easiest way to write X windows applications in C.
+Perl has crept into the book too. There are people who think Perl's time has come. There are those of us who
+think Perl's time should have come and gone again a long time back. Regardless of my views, Perl has
+become one of the most powerful (and at times arcane) scripting languages. All Linux programmers,
+particularly anyone programming cgi scripts for the web, will meet Perl sooner or later so what better than a
+Perl survival kit.
+The final chapter is your chance to join the world of kernel programmers. As you will discover it isn't actually
+that different to writing modules for large application programs. Put on your pointy hat, grow a beard, drink
+Jolt Cola and come join in the fun.
+Alan
+5
+

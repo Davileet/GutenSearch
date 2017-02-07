@@ -1,0 +1,3 @@
+Some institutions, such as government agencies, still use PDF documents that can only be fully used by Reader (I’m talking about government forms and even tax documents). To that end, what options are available for Linux users?
+
+Fortunately, there are plenty. Of course, as there are so many documents with such an array of features and needs, not every PDF viewer is created equally. Let’s examine the most popular tools and what features they do support and what applications are best-suited to handle advanced PDF documents.

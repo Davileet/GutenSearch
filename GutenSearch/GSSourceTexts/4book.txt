@@ -1,0 +1,25 @@
+Introduction
+Welcome
+Welcome to Beginning Linux Programming, an easy?to?use guide to developing programs for the Linux and
+other UNIX?style operating systems.
+In this book, we aim to give you an introduction to a wide variety of topics important to you as a developer
+using UNIX. The word Beginning in the title refers more to the content than to your skill level. We've
+structured the book to help you learn more about what UNIX has to offer, however much experience you have
+already. UNIX programming is a large field and we aim to cover enough about a wide range of topics to give
+you a good 'beginning' in each subject.
+Who's this Book For?
+If you're a programmer who wishes to get up to speed with the facilities that UNIX (and Linux) offers
+software developers, to maximize your programming time and your application's use of the UNIX system,
+you've picked up the right book. Clear explanations and a tried and tested step?by?step approach will help
+you progress rapidly and pick up all the key techniques.
+We assume that you know the basics of getting around in UNIX and, ideally, you'll already have some C or
+C++ programming experience in a non?UNIX environment, perhaps MS?DOS or Microsoft Windows.
+Where direct comparisons exist, these are indicated in the text.
+Important Watch out if you're new to UNIX. This isn't a book on installing or configuring Linux. If you
+want to learn more about administering a UNIX system, UNIX concepts and UNIX commands in
+general, you may want to take a look at Instant UNIX, by the same authors and Andrew Evans,
+also published by Wrox Press (ISBN 1?874416?65?6).
+As it aims to be both a tutorial guide to the various tools and sets of functions/libraries available to you on
+most UNIX systems and also a handy reference to return to, this book is unique in its straightforward
+approach, comprehensive coverage and extensive examples.
+

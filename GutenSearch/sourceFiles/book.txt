@@ -1,0 +1,79 @@
+Ricks first experience of a UNIX style operating system was on a PDP 11/23+, after which BSD4.2 on a VAX
+came as a pleasant improvement. After spells using UNIX System V.2, Xenix, SCO UNIX, AIX and a few
+others, he first met Linux back in the kernel .99 days, and has been a fan ever since.
+
+A bit of a programming linguist, he has programmed systems in SL?1, a couple of assemblers, Fortran,
+Pascal, C, C++, Java, SQL and Perl. Under pressure he has also been known to admit to some familiarity with
+Visual Basic, but tries not to advertise this aberration.
+Rick lives in a Leicestershire village, with his wife Ann, two children, Jennifer and Andrew, and a pair of cats.
+Outside work his passion is for classical music, especially early church music, and he does his best to find
+time for some piano practice between lessons. He occasionally does the odd job for Wrox press.
+Finally, both authors were co?authors of Instant UNIX (Wrox Press)
+Authors Acknowledgements
+The authors would like to thank the many people who helped make this book possible.
+Neil's wife, Christine, for her understanding of the reasons why we had to write another book, and his children
+Alexandra and Adrian for not being sad at losing their Dad for too many weekends.
+Rick's wife, Ann, and children, Jennifer and Andrew, for their very considerable patience during the evenings
+and weekends while this book was being written.
+Heartfelt thanks are also due to Richard Neill, for his considerable assistance in reviewing early drafts of the
+first edition, on which he made numerous helpful comments and suggestions. We would also like to pay
+tribute to his wife, Angie, and son, Gavin, for putting up with us monopolizing his precious time. As for the publishing team, we wish to thank the folk at Wrox Press, especially Julian, Tim and Jon for their work on getting the first edition to fly, and Paul, Richard, James, Louay, and Martin for their enthusiasm and editing work on the second edition. We would also like to thank the people who have contributed additional material to the second edition ? Andrew, Jens, Krishna and Simon ? and all the people who did excellent work reviewing the second edition.
+Its certainly a better book than it would otherwise have been. Thanks guys!
+We would also like to thank our one?time employers, Scientific Generics and Mobicom, for their support during the creation of the first edition. Neil and Rick would also like to pay homage to two important motivators who have helped make this book possible. Firstly, Richard Stallman, for the excellent GNU tools and the idea of a free software environment. Secondly, Linus Torvalds, for starting, and continuing to inspire the cooperative development that gives us the ever?improving Linux Kernel.
+Beginning Linux Programming, Second Edition
+4
+Foreword
+by Alan Cox
+Every computer programmer has their own pile of notes and scribbles. They have their code examples saved
+from the past heroic dive into the manuals or from Usenet ? where sometimes even fools fear to follow (The
+other body of opinion is that fools all get free Usenet access and use it non stop.) It is strange perhaps
+therefore that so few books follow such a style. In the online world there are a lot of short, to the point,
+documents about specific areas of programming and administration. The Linux documentation project
+released a whole pile of three to ten page documents covering everything from installing Linux and NT on the
+same machine to wiring your coffee machine to Linux. Seriously. Take a look in the mini?how?to index on
+http://sunsite.unc.edu/LDP.
+The book world, on the other hand, mostly seems to consist of either learned tomes ? detailed and very
+complete works that you don't have time to read, and dummies?style books ? which you buy for friends as a
+joke. There are very few books that try to cover the basics of a lot of useful areas. 
+
+This book is one of them, a
+compendium of those programmers notes and scribbles, deciphered (try reading programmer handwriting),
+edited and brought together coherently as a book.
+This updated second edition of the book has expanded, as Linux has expanded, and now covers writing
+threaded programs (otherwise known as "how to shoot yourself in both feet at once") and the GTK toolkit
+which is the basis of the GNOME GUI and probably the easiest way to write X windows applications in C.
+Perl has crept into the book too. There are people who think Perl's time has come. There are those of us who
+think Perl's time should have come and gone again a long time back. Regardless of my views, Perl has
+become one of the most powerful (and at times arcane) scripting languages. All Linux programmers,
+particularly anyone programming cgi scripts for the web, will meet Perl sooner or later so what better than a
+Perl survival kit.
+The final chapter is your chance to join the world of kernel programmers. As you will discover it isn't actually
+that different to writing modules for large application programs. Put on your pointy hat, grow a beard, drink
+Jolt Cola and come join in the fun.
+Alan
+5
+
+Introduction
+Welcome
+Welcome to Beginning Linux Programming, an easy?to?use guide to developing programs for the Linux and
+other UNIX?style operating systems.
+In this book, we aim to give you an introduction to a wide variety of topics important to you as a developer
+using UNIX. The word Beginning in the title refers more to the content than to your skill level. We've
+structured the book to help you learn more about what UNIX has to offer, however much experience you have
+already. UNIX programming is a large field and we aim to cover enough about a wide range of topics to give
+you a good 'beginning' in each subject.
+Who's this Book For?
+If you're a programmer who wishes to get up to speed with the facilities that UNIX (and Linux) offers
+software developers, to maximize your programming time and your application's use of the UNIX system,
+you've picked up the right book. Clear explanations and a tried and tested step?by?step approach will help
+you progress rapidly and pick up all the key techniques.
+We assume that you know the basics of getting around in UNIX and, ideally, you'll already have some C or
+C++ programming experience in a non?UNIX environment, perhaps MS?DOS or Microsoft Windows.
+Where direct comparisons exist, these are indicated in the text.
+Important Watch out if you're new to UNIX. This isn't a book on installing or configuring Linux. If you
+want to learn more about administering a UNIX system, UNIX concepts and UNIX commands in
+general, you may want to take a look at Instant UNIX, by the same authors and Andrew Evans,
+also published by Wrox Press (ISBN 1?874416?65?6).
+As it aims to be both a tutorial guide to the various tools and sets of functions/libraries available to you on
+most UNIX systems and also a handy reference to return to, this book is unique in its straightforward
+approach, comprehensive coverage and extensive examples.

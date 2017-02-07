@@ -1,0 +1,5 @@
+I am using the same UDP socket for sending and receiving data. I am wondering if packet queuing for DGRAM sockets is already present, or do we have to handle it separately.
+
+If the user code has to handle queueing, how is it done? Do we have separate threads to recvfrom for the socket and put the packet in the reciver_queue and to sendto from another sending_queue?
+
+An example code will be absolutely awesome. Thanks for your help.
