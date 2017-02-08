@@ -1,2 +1,0 @@
-That being said, Evince (Figure 1) is an outstanding app that has one major “feature” that Adobe Reader doesn’t have ? it’s lightweight.  It does a great job of viewing and interacting with PDF documents (so long as that PDF document doesn’t venture outside of the basic elements).
-

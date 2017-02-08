@@ -1,2 +1,0 @@
-I am using the same UDP socket for sending and receiving data. I am wondering if packet queuing for DGRAM sockets is already present, or do we have to handle it separately.
-

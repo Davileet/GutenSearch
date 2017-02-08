@@ -1,4 +1,0 @@
-Ricks first experience of a UNIX style operating system was on a PDP 11/23+, after which BSD4.2 on a VAX
-came as a pleasant improvement. After spells using UNIX System V.2, Xenix, SCO UNIX, AIX and a few
-others, he first met Linux back in the kernel .99 days, and has been a fan ever since.
-

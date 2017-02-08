@@ -1,2 +1,0 @@
-Some institutions, such as government agencies, still use PDF documents that can only be fully used by Reader (I’m talking about government forms and even tax documents). To that end, what options are available for Linux users?
-

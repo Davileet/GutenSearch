@@ -1,2 +1,0 @@
-Although the PDF Browser plugin isn’t a deal breaker, it does add extra steps to the process (and if the PDF is embedded in a web site ? and not a downloadable form ? you’re out of luck). Even though embedded Javascript can add a layer of insecurity to the hosting platform (Javascript in and of itself is well known to be insecure), its use is widespread. Finally, Evince was supposed to include annotation support starting with release 2.32 (current release is 3.10) ? no matter how far you dig in the app, you won’t find support for annotations.
-
