@@ -1,0 +1,34 @@
+A bit of a programming linguist, he has programmed systems in SL?1, a couple of assemblers, Fortran,
+Pascal, C, C++, Java, SQL and Perl. Under pressure he has also been known to admit to some familiarity with
+Visual Basic, but tries not to advertise this aberration.
+Rick lives in a Leicestershire village, with his wife Ann, two children, Jennifer and Andrew, and a pair of cats.
+Outside work his passion is for classical music, especially early church music, and he does his best to find
+time for some piano practice between lessons. He occasionally does the odd job for Wrox press.
+Finally, both authors were co?authors of Instant UNIX (Wrox Press)
+Authors Acknowledgements
+The authors would like to thank the many people who helped make this book possible.
+Neil's wife, Christine, for her understanding of the reasons why we had to write another book, and his children
+Alexandra and Adrian for not being sad at losing their Dad for too many weekends.
+Rick's wife, Ann, and children, Jennifer and Andrew, for their very considerable patience during the evenings
+and weekends while this book was being written.
+Heartfelt thanks are also due to Richard Neill, for his considerable assistance in reviewing early drafts of the
+first edition, on which he made numerous helpful comments and suggestions. We would also like to pay
+tribute to his wife, Angie, and son, Gavin, for putting up with us monopolizing his precious time. As for the publishing team, we wish to thank the folk at Wrox Press, especially Julian, Tim and Jon for their work on getting the first edition to fly, and Paul, Richard, James, Louay, and Martin for their enthusiasm and editing work on the second edition. We would also like to thank the people who have contributed additional material to the second edition ? Andrew, Jens, Krishna and Simon ? and all the people who did excellent work reviewing the second edition.
+Its certainly a better book than it would otherwise have been. Thanks guys!
+We would also like to thank our one?time employers, Scientific Generics and Mobicom, for their support during the creation of the first edition. Neil and Rick would also like to pay homage to two important motivators who have helped make this book possible. Firstly, Richard Stallman, for the excellent GNU tools and the idea of a free software environment. Secondly, Linus Torvalds, for starting, and continuing to inspire the cooperative development that gives us the ever?improving Linux Kernel.
+Beginning Linux Programming, Second Edition
+4
+Foreword
+by Alan Cox
+Every computer programmer has their own pile of notes and scribbles. They have their code examples saved
+from the past heroic dive into the manuals or from Usenet ? where sometimes even fools fear to follow (The
+other body of opinion is that fools all get free Usenet access and use it non stop.) It is strange perhaps
+therefore that so few books follow such a style. In the online world there are a lot of short, to the point,
+documents about specific areas of programming and administration. The Linux documentation project
+released a whole pile of three to ten page documents covering everything from installing Linux and NT on the
+same machine to wiring your coffee machine to Linux. Seriously. Take a look in the mini?how?to index on
+http://sunsite.unc.edu/LDP.
+The book world, on the other hand, mostly seems to consist of either learned tomes ? detailed and very
+complete works that you don't have time to read, and dummies?style books ? which you buy for friends as a
+joke. There are very few books that try to cover the basics of a lot of useful areas. 
+

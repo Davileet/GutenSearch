@@ -1,0 +1,2 @@
+If the user code has to handle queueing, how is it done? Do we have separate threads to recvfrom for the socket and put the packet in the reciver_queue and to sendto from another sending_queue?
+
