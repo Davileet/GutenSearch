@@ -30,7 +30,7 @@ public class Search {
 		File[] allDocuments;
 		Scanner scan;
 		ArrayList<String> docArray = new ArrayList<>();
-		File file = new File("GSSourceTexts//");
+		File file = new File("sourceFiles//");
 		
 		String s = args.toString();
 		String[] searchArray = s.split(" ");
